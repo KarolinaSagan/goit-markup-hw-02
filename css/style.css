@@ -4,15 +4,16 @@ body {
 }
 .button {
   cursor: pointer;
-}
-.button:active {
-  background-color: #2196f3;
   font-weight: 500;
   font-size: 16px;
 }
-.button:hover {
+.button:active,
+.button:hover,
+.navigation:active,
+.navigation:hover {
   background-color: #2196f3;
 }
+
 .navigation {
   font-weight: 500;
   font-size: 14px;
@@ -51,14 +52,6 @@ body {
   color: rgba(255, 255, 255, 0.6);
   line-height: 3%;
   font-size: 14px;
-}
-
-.navigation:hover {
-  color: #2196f3;
-}
-
-.navigation:active {
-  color: #2196f3;
 }
 
 .contact_footer:hover {

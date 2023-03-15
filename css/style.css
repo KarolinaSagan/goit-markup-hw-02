@@ -3,7 +3,6 @@ body {
   color: #212121;
 }
 .button {
-  position: absolute;
   cursor: pointer;
 }
 .button:active {
@@ -12,6 +11,10 @@ body {
 .button:hover {
   color: #2196f3;
 }
+.navigatiion {
+  color: #2196f3;
+}
+
 .description {
   color: #757575;
 }

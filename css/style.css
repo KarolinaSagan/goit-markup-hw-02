@@ -2,5 +2,13 @@ body {
   font-family: "Roboto", sans-serif;
 }
 .button {
+  position: absolute;
+  width: 121px;
+  height: 38px;
+  left: 510px;
+  top: 174px;
   curosr: pointer;
+}
+.button:active {
+  background-color: #2196f3;
 }

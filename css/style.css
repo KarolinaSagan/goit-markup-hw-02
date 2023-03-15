@@ -53,17 +53,29 @@ body {
   font-size: 14px;
 }
 
-.contact,
-.contact-footer,
-.navigation :hover {
+.navigation:hover {
   color: #2196f3;
 }
 
-.contact,
-.navigation :active {
+.navigation:active {
   color: #2196f3;
 }
 
+.contact_footer:hover {
+  color: #2196f3;
+}
+
+.contact_footer:active {
+  color: #2196f3;
+}
+
+.contact:hover {
+  color: #2196f3;
+}
+
+.contact:active {
+  color: #2196f3;
+}
 .addres {
   color: #ffffff;
   font-size: 14px;

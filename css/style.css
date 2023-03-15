@@ -12,3 +12,6 @@ body {
 .button :hover {
   background-color: #2196f3;
 }
+.description {
+  color: #757575;
+}

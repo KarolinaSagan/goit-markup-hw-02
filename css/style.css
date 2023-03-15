@@ -56,12 +56,13 @@ body {
   line-height: 3%;
   font-size: 14px;
 }
-.addres {
+.address {
   color: #ffffff;
   font-size: 14px;
   line-height: 3%;
 }
 .footer-page {
+  position: absolute;
   width: 1600px;
   height: 252px;
   left: 0px;

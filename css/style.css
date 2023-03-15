@@ -6,10 +6,10 @@ body {
   cursor: pointer;
 }
 .button:active {
-  color: #2196f3;
+  background-color: #2196f3;
 }
 .button:hover {
-  color: #2196f3;
+  background-color: #2196f3;
 }
 .navigatiion {
   color: #2196f3;

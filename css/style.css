@@ -4,10 +4,6 @@ body {
 }
 .button {
   position: absolute;
-  width: 121px;
-  height: 38px;
-  left: 510px;
-  top: 174px;
   cursor: pointer;
 }
 button :active {

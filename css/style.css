@@ -1,5 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
+  color: #212121;
 }
 .button {
   position: absolute;
@@ -7,8 +8,11 @@ body {
   height: 38px;
   left: 510px;
   top: 174px;
-  curosr: pointer;
+  cursor: pointer;
 }
-.button:active {
+button :active {
   background-color: #2196f3;
+}
+footer:active {
+  color: rgba(255, 255, 255, 0.6);
 }

@@ -17,6 +17,7 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 2%;
+  color: #212121;
 }
 
 .description {
@@ -60,4 +61,10 @@ body {
 .contact-footer,
 .navigation :hover {
   color: #2196f3;
+}
+
+.addres {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 3%;
 }

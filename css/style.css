@@ -10,7 +10,11 @@ body {
 .button:active,
 .button:hover,
 .navigation:active,
-.navigation:hover {
+.navigation:hover,
+.contact-footer:hover,
+.contact-footer:active,
+.contact:active,
+.contact:hover {
   background-color: #2196f3;
 }
 
@@ -38,10 +42,7 @@ body {
   font-size: 26px;
   line-height: 3%;
 }
-.footer {
-  font-size: 14px;
-  line-height: 22%;
-}
+
 .contact {
   color: #757575;
   font-weight: 500;
@@ -52,22 +53,6 @@ body {
   color: rgba(255, 255, 255, 0.6);
   line-height: 3%;
   font-size: 14px;
-}
-
-.contact_footer:hover {
-  color: #2196f3;
-}
-
-.contact_footer:active {
-  color: #2196f3;
-}
-
-.contact:hover {
-  color: #2196f3;
-}
-
-.contact:active {
-  color: #2196f3;
 }
 .addres {
   color: #ffffff;

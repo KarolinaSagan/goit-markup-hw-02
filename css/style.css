@@ -14,7 +14,11 @@ body {
 .contact-footer:hover,
 .contact-footer:active,
 .contact:active,
-.contact:hover {
+.contact:hover,
+.button:focus,
+.navigation:focus,
+.contact:focus,
+.contact-footer:focus {
   background-color: #2196f3;
 }
 

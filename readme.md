@@ -1,0 +1,1 @@
+Objaśnienia do projektu

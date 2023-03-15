@@ -22,7 +22,6 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 2%;
-  color: #212121;
 }
 
 .description {
@@ -42,6 +41,9 @@ body {
   font-size: 26px;
   line-height: 3%;
 }
+.color-logo {
+  color: #2196f3;
+}
 
 .contact {
   color: #757575;
@@ -58,4 +60,7 @@ body {
   color: #ffffff;
   font-size: 14px;
   line-height: 3%;
+}
+.backgroud-footer {
+  background: #2f303a;
 }

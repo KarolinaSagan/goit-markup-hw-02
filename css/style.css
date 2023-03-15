@@ -62,5 +62,9 @@ body {
   line-height: 3%;
 }
 .footer {
-  background-color: blue;
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 1628px;
+  background-color: #2f303a;
 }

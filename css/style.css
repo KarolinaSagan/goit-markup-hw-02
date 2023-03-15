@@ -59,6 +59,12 @@ body {
   color: #2196f3;
 }
 
+.contact,
+.contact-footer,
+.navigation :active {
+  color: #2196f3;
+}
+
 .addres {
   color: #ffffff;
   font-size: 14px;

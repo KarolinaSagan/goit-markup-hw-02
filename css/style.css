@@ -6,12 +6,12 @@ body {
   position: absolute;
   cursor: pointer;
 }
-.button :active {
+.button:active {
   color: #2196f3;
 }
-.button :hover {
+.button:hover {
   color: #2196f3;
 }
 .description {
-  color: #d80a0a;
+  color: #757575;
 }

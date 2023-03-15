@@ -6,7 +6,7 @@ body {
   position: absolute;
   cursor: pointer;
 }
-button :active {
+.button :active {
   background-color: #2196f3;
 }
 footer:active {

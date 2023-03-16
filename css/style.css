@@ -36,6 +36,12 @@ img {
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
+  color: #ffffff;
+  position: absolute;
+  width: 117px;
+  height: 30px;
+  left: 742px;
+  top: 440px;
 }
 
 .button-index:active,

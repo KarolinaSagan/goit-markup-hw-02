@@ -38,7 +38,6 @@ img {
   text-align: center;
   letter-spacing: 0.06em;
   color: #ffffff;
-  position: absolute;
   width: 117px;
   height: 30px;
   left: 742px;
@@ -171,9 +170,5 @@ img {
 }
 
 .first-section-style {
-  left: 0px;
-  top: 80px;
   background: #2f303a;
-  width: 1600px;
-  height: 600px;
 }

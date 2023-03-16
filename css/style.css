@@ -111,6 +111,7 @@ img {
   font-weight: 700;
   font-size: 26px;
   line-height: 0.84;
+  text-decoration: none;
 }
 .color-logo {
   color: #2196f3;

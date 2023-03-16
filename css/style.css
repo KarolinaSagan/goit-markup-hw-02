@@ -16,7 +16,8 @@ img {
   letter-spacing: 0.03em;
 }
 .button-portfolio:active,
-.button-portfolio:hover .button-portfolio:focus {
+.button-portfolio:hover,
+.button-portfolio:focus {
   background-color: #2196f3;
   cursor: pointer;
   color: #ffffff;

@@ -170,6 +170,8 @@ img {
   color: #757575;
 }
 
-.section-color {
+.first-section-style {
   background: #2f303a;
+  width: 1600px;
+  height: 600px;
 }

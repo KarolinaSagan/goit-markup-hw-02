@@ -37,9 +37,7 @@ img {
   color: #ffffff;
 }
 
-.button-index:active,
-.button-index:hover,
-.button-index:focus {
+.button-index:hover {
   cursor: pointer;
 }
 
@@ -86,7 +84,7 @@ img {
 
 .heading-index {
   font-weight: 500;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.18;
   text-align: center;
   letter-spacing: 0.03em;
@@ -110,6 +108,7 @@ img {
   letter-spacing: 0.03em;
   line-height: 1.19;
   text-decoration: none;
+  color: #000000;
 }
 .color-logo-blue {
   color: #2196f3;
